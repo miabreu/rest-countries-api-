@@ -1,13 +1,12 @@
-# Frontend Mentor - REST Countries API with color theme switcher solution
+# REST Countries API with color theme switcher 
 
-This is a solution to the [REST Countries API with color theme switcher challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
 - [Installing](#installing)
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -39,13 +38,14 @@ Users should be able to:
 - Click through to the border countries on the detail page
 - Toggle the color scheme between light and dark mode *(optional)*
 
-### Screenshot
+### Screenshots
 
-![]()
+<img width="1552" alt="Screen Shot 2023-05-02 at 10 38 13 AM" src="https://user-images.githubusercontent.com/42332056/235699738-a8f5acef-1c10-4bea-bae6-c7c2b7de7aec.png">
+<img width="1552" alt="Screen Shot 2023-05-02 at 10 38 29 AM" src="https://user-images.githubusercontent.com/42332056/235699725-bf58e42d-8161-427e-9cae-2b309925a7eb.png">
 
 ### Links
 
-- Live Site URL : 
+- Live Site URL: [Live Website](https://whereintheworld-api.netlify.app/)
 
 ## My process
 
