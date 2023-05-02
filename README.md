@@ -16,7 +16,7 @@
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/miabreu/rest-countries-api.git
+$ git clone https://github.com/miabreu/where-in-the-world.git
 
 # Installing all the dependencies
 $ npm
